@@ -1,9 +1,10 @@
-.togglebtn {
-    background: var(--clr-grey-10);
-    display: inline-block;
+  .togglebtn {
+    display: block;
     min-width: min-content;
-    margin: 0.5rem;
+    padding: 0.5rem;
+    margin-top: 0.3rem;
   }
+
 
   .password {
     display: flex;
